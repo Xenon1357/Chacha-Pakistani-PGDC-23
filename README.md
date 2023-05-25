@@ -2,7 +2,7 @@
 ** Contributors**
 Abdul Moeez (@abdulmoeez-hub)
 Shiza Akhlaq
-Zohaib Shaukat (Death135790)
+Zohaib Shaukat (Xenon1357)
 M. Qasim
 
 **INSTALLATION**
