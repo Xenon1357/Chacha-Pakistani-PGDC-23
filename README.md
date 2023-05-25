@@ -15,7 +15,7 @@ We only had 4 days to learn Unity and implement our idea so we weren't able to i
 
 
 **HOW TO PLAY**
-1) Use the Lef and Right arrow keys or "A" and "D" keys to move 
+1) Use the Left and Right arrow keys or "A" and "D" keys to move 
 2) Press the space bar to jump
 3) In case you fall down start from the start by restarting the game (there is no death logic so you just keep falling down endlessly)
 4) Press alt + F4 to exit the game as there's no exit button or UI for this game
